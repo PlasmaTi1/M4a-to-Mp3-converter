@@ -1,4 +1,4 @@
-To run this project, you will need the following libraries:
+To run this file you will need the following libraries:
 
 Pydub, FFmpeg, Tkinter
 
